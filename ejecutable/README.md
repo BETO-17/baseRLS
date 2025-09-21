@@ -1,0 +1,1 @@
+## descargar python 3.10 
